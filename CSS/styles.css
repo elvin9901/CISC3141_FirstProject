@@ -127,6 +127,9 @@ footer{
   position: relative;
   margin-right:30px;
 }
+.Get{
+  text-align: center;
+}
 
 #bar {
   font-size: 1.5rem;
